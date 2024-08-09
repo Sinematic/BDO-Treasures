@@ -1,0 +1,30 @@
+a {
+  	text-decoration: none;
+}
+
+li {
+  	list-style: none;
+}
+
+body {
+	width: 100vw;
+	max-width: 1440px;
+	min-height: 100vh;
+	height: auto;
+	margin: auto;
+	scroll-behavior: smooth;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+    background-color: #24282c;
+}
+
+* {
+	box-sizing: border-box !important;
+	margin: auto;
+	overflow: hidden;
+}
+
+body, html {
+	overflow: auto;
+}
+  

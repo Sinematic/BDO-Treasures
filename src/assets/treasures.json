@@ -1,0 +1,136 @@
+{
+    "treasures": [
+      {
+        "name": "Ornette's Spirit Essence",
+        "image": "./src/assets/images/Ornette-s-Spirit-Essence.webp",
+        "description": "The well-known infinite HP potion.",
+        "pieces": [
+          {
+            "name": "Sherekhan's Panacea",
+            "description": "Sherekhan Necropolis' piece",
+            "drop_rate": "0.003",
+            "image": "./src/assets/images/Sherekhan-s-Panacea.png"
+          },
+          {
+            "name": "Ron's Tintinnabulum",
+            "description": "Tooth Fairy Forest's piece",
+            "drop_rate": "0.001",
+            "image": "./src/assets/images/Ron-s-Tintinnabulum.png"
+          },
+          {
+            "name": "Ash Halfmoon Kagtunak",
+            "description": "Blood Wolf Settlement's piece",
+            "drop_rate": "0.001",
+            "image": "./src/assets/images/Ash-Halfmoon-Kagtunak.png"
+          }
+        ]
+      },
+      {
+        "name": "Odore's Spirit Essence",
+        "image": "./src/assets/images/Odore-s-Spirit-Essence.webp",
+        "description": "The well-known infinite MP potion.",
+        "pieces": [
+          {
+            "name": "Markthanan's Gland",
+            "description": "Tshira Ruins' piece",
+            "drop_rate": "0.003",
+            "image": "./src/assets/images/Markthanan-s-Gland.png"
+          },
+          {
+            "name": "Narc's Crimson Tear",
+            "description": "Forest Ronaros' piece",
+            "drop_rate": "0.001",
+            "image": "./src/assets/images/Narc-s-Crimson-Tear.png"
+          },
+          {
+            "name": "Valtarra's Clairvoyance",
+            "description": "Navarn Steppe's piece",
+            "drop_rate": "0.001",
+            "image": "./src/assets/images/Valtarra-s-Clairvoyance.png"
+          }
+        ]
+      },
+      {
+        "name": "Archaeologist's Map",
+        "image": "./src/assets/images/Archaeologist-Map.png",
+        "description": "The eternal map.",
+        "pieces": [
+          {
+            "name": "Lava Tukar",
+            "description": "Roud Sulfur Mine's piece #1.",
+            "drop_rate": "0.003",
+            "image": "./src/assets/images/Tukar-piece.webp"
+          },
+          {
+            "name": "Lava Devourer",
+            "description": "Roud Sulfur Mine's piece #2.",
+            "drop_rate": "0.002",
+            "image": "./src/assets/images/Devourer-Piece.webp"
+          },
+          {
+            "name": "Iron Fist Warder",
+            "description": "Pila Ku Jail's piece #1.",
+            "drop_rate": "0.0025",
+            "image": "./src/assets/images/Warder-Piece.webp"
+          },
+          {
+            "name": "Sordid Deportee",
+            "description": "Pila Ku Jail's piece #2.",
+            "drop_rate": "0.005",
+            "image": "./src/assets/images/Deportee-Piece.webp"
+          }
+        ]
+      },
+      {
+        "name": "Lafi Bedmountain's Upgraded Compass",
+        "image": "./src/assets/images/Lafi-Bedmountain-s-Upgraded-Compass.webp",
+        "description": "A powerful compass that allows instant travel to party members.",
+        "pieces": [
+          {
+            "name": "Aakman Elite Guardian",
+            "description": "Aakman Temple's piece.",
+            "drop_rate": "0.005",
+            "image": "./src/assets/images/Aakman-Piece.webp"
+          },
+          {
+            "name": "Vodkhan",
+            "description": "Hystria Ruins' piece #1.",
+            "drop_rate": "0.005",
+            "image": "./src/assets/images/Vodkhan-Piece.webp"
+          },
+          {
+            "name": "Elten",
+            "description": "Hystria Ruins' piece #2.",
+            "drop_rate": "0.0005",
+            "image": "./src/assets/images/Elten-Piece.webp"
+          }
+        ]
+      },
+      {
+        "name": "Rich Merchant's Ring",
+        "image": "./src/assets/images/Rich-Merchant-s-Ring.webp",
+        "description": "A powerful ring that increases the price of goods sold by 5%.",
+        "pieces": [
+          {
+            "name": "Golden Key Piece",
+            "description": "Gathering piece, found in various locations.",
+            "drop_rate": "0.0001",
+            "image": "./src/assets/images/Golden-Key-Piece.png"
+          },
+          {
+            "name": "Jewel Embedded in Golden Monocle",
+            "description": "Obtained from Treasure Chests found during bartering.",
+            "drop_rate": "0.0001",
+            "image": "./src/assets/images/Golden-Monocle.png"
+          },
+          {
+            "name": "Imperial Delivery Invoice",
+            "description": "Obtained through various life skills and quests.",
+            "drop_rate": "0.0001",
+            "image": "./src/assets/images/Imperial-Delivery-Invoice.png"
+          }
+        ]
+      }
+    ]
+  }
+  

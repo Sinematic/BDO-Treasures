@@ -1,0 +1,31 @@
+.piece {
+    width: 100%;
+    height: 100%;
+    min-height: 120px;
+    border: 1px solid white;
+    background-color: rgb(71, 70, 70);
+    border-radius: 5px;
+}
+
+.piece > img {
+    width: 100%;
+    height: 100%;
+
+}
+
+.piece .piece-name {
+    text-align: center;
+}
+
+.piece .odds {
+    padding-top: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.piece > .piece-alt-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
