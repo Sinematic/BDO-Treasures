@@ -108,26 +108,35 @@
       },
       {
         "name": "Rich Merchant's Ring",
-        "image": "./src/assets/images/Rich-Merchant-s-Ring.webp",
+        "image": "./src/assets/images/Rich-Merchant-Ring.webp",
         "description": "A powerful ring that increases the price of goods sold by 5%.",
         "pieces": [
           {
-            "name": "Golden Key Piece",
-            "description": "Gathering piece, found in various locations.",
-            "drop_rate": "0.0001",
-            "image": "./src/assets/images/Golden-Key-Piece.png"
+            "name": "Ash (#1)",
+            "description": "Ash's piece.",
+            "drop_rate": "0.001",
+            "image": "./src/assets/images/Ash-Piece.webp"
           },
           {
-            "name": "Jewel Embedded in Golden Monocle",
-            "description": "Obtained from Treasure Chests found during bartering.",
-            "drop_rate": "0.0001",
-            "image": "./src/assets/images/Golden-Monocle.png"
-          },
-          {
-            "name": "Imperial Delivery Invoice",
-            "description": "Obtained through various life skills and quests.",
-            "drop_rate": "0.0001",
-            "image": "./src/assets/images/Imperial-Delivery-Invoice.png"
+            "name": "Padix (#2)",
+            "description": "Padix Island's piece.",
+            "drop_rate": "0.0005",
+            "image": "./src/assets/images/Padix-Piece.webp"
+          },          {
+            "name": "Sycraia (#3)",
+            "description": "Sycraia's piece.",
+            "drop_rate": "0.0003",
+            "image": "./src/assets/images/Sycraia-Piece.webp"
+          },          {
+            "name": "Crypt (#4)",
+            "description": "Crypt's piece.",
+            "drop_rate": "0.01",
+            "image": "./src/assets/images/Ash-Piece.webp"
+          },          {
+            "name": "Olun (#5)",
+            "description": "Olun's piece.",
+            "drop_rate": "0.0005",
+            "image": "./src/assets/images/Olun-s-Piece.webp"
           }
         ]
       }

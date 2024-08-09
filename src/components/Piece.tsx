@@ -8,13 +8,14 @@ export default function Piece( props: { name: string, image: string, odds: numbe
     return (
 
         <div className="piece" onClick={() => setIsClicked(!isClicked)}>
-            {!isClicked ? 
+            {!isClicked ? <>
                 <img src={props.image} /> 
+                <span className="odds">{props.odds ? props.odds + "%" : "Unknown odds"}</span>
+            </>
+                
+
             :
-                <div className="piece-alt-content">
-                    <p className="piece-name">{props.name}</p>
-                    <p className="odds">{props.odds ? props.odds  + "%" : "Unknown odds" }</p>
-                </div>
+                <p className="piece-alt-content">{props.name}</p>
             }
         </div>
     )
